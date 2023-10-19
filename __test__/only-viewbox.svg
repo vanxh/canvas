@@ -1,5 +1,1 @@
-<svg viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#2498EE" x="0" y="0" width="300" height="300"></rect>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 300 300"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect width="300" height="300" x="0" y="0" fill="#2498EE"/></g></svg>
